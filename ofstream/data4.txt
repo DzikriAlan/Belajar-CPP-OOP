@@ -1,0 +1,12 @@
+ini adalah file external.
+dan ini adalah baris ke-dua.
+
+data
+no  Nama
+1   Madara
+2   Kaguya
+3   Hagoromo
+4   Ishiki
+5   Momoshiki
+Data4 dimasukkan
+Data4 dimasukkan
